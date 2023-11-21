@@ -1,0 +1,11 @@
+.navbar-logo {
+    width: 70px;
+    height: auto;
+}
+
+
+.carousel-item img {
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
